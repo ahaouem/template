@@ -1,4 +1,4 @@
-# Create T3 App
+# Create G7 App
 
 This is a [The Greatest 7 Stack](https://github.com/ahaouem/next-neon-clerk-drizzle-t3env-shadcnui) project bootstrapped with `create-t3-app`.
 
