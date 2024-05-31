@@ -34,11 +34,10 @@ export default function Page() {
                 <Link href={"https://clerk.dev/"}> Clerk, </Link>
                 <Link href={"https://orm.drizzle.team/"}> Drizzle,</Link>
                 <Link href={"https://neon.tech/"}> Neon, </Link>
+                <Link href={"https://env.t3.gg/"}>T3 Env, </Link>
+                <Link href={"https://tailwindcss.com/"}> Tailwind, </Link>
                 and
-                <Link href={"https://ui.shadcn.com/"}>
-                  {" "}
-                  shadcn/ui.{" "}
-                </Link>
+                <Link href={"https://ui.shadcn.com/"}> shadcn/ui. </Link>
               </h1>
               <p className="max-w-[600px] text-gray-300 md:text-xl dark:text-gray-400">
                 Leverage the latest technologies to create fast, secure, and
